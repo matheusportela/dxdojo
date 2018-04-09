@@ -1,12 +1,13 @@
-PONTOS FORTES
-+ dojo rolou
-+ faltou luz, faltou infra, mas resolvemos
-+ geral participou! Cae e Helena!!
-+ pessoas conheceram o Game of Life
+# dxdojo
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - 06/04/2018
 
+## Pontos fortes
+- dojo rolou
+- faltou luz, faltou infra, mas resolvemos
+- geral participou! Cae e Helena!!
+- pessoas conheceram o Game of Life
 
-
-PONTOS FRACOS
+## Pontos fracos
 - que computador é esse matheus, como voce coda?
 - pedroso nao participou
 - wlad ficou na vontade, faltou tempo
